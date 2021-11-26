@@ -16,12 +16,12 @@
 
 ## EDUCATION
 
-- 2016.9-2020.6 [**B.S.**] Computer Science and Technology, Northeastern University, China. 
 - 2020.9-present [**Ph.D. student**] Computer Science and Technology, Shanghai Jiao Tong University, China.
+- 2016.9-2020.6 [**B.S.**] Computer Science and Technology, Northeastern University, China. 
 
 ## RESEARCH INTERESTS
 
-- Computer Architecture;
+- Computer Architecture
 - GPGPU
 - Graphics Rendering
 - AI Accelerator
