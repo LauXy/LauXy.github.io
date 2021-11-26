@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## PERSONAL INFORMATION
 
-You can use the [editor on GitHub](https://github.com/LauXy/LauXy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Xueyuan Liu</h1>
+      <p><b>PhD student</b></p>
+      <p><b>Department of Computer Science and Engineering</b></p>
+      <p><b>Shanghai Jiao Tong University</b></p>
+      <p><b>Email: xueyuan_liu@sjtu.edu.cn</b></p>
+      <p><b>Laboratory: ACALab</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## EDUCATION
 
-### Markdown
+- 2016.9-2020.6 [**B.S.**] Computer Science and Technology, Northeastern University, China. 
+- 2020.9-present [**Ph.D. student**] Computer Science and Technology, Shanghai Jiao Tong University, China.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## RESEARCH INTERESTS
 
-```markdown
-Syntax highlighted code block
+- Computer Architecture;
+- GPGPU
+- Graphics Rendering
+- AI Accelerator
 
-# Header 1
-## Header 2
-### Header 3
+## PUBLICATIONS
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LauXy/LauXy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Zhuoran Song, Feiyang Wu, **Xueyuan Liu**, Naifeng Jing and Xiaoyao Liang. VR-DANN: Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2020).
